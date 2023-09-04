@@ -18,7 +18,7 @@ Your sponsorship fuels my dedication to open-source projects and community initi
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chris-bateman1&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chris-bateman&show_icons=true&theme=dark)
 
 
 ## ❤️ Thank You
